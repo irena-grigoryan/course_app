@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">E-commerce</string>
+
+    <string name="sales_icon">Sales</string>
+    <string name="filter_icon">Filter</string>
+    <string name="java_icon">Java</string>
+    <string name="python_icon">Python</string>
+    <string name="full_stack_icon">Full Stack</string>
+    <string name="front_end_icon">Front-End</string>
+    <string name="back_end_icon">Back-End</string>
+    <string name="c_sharp_icon">C sharp</string>
+    <string name="course_page_icon">Course Page Icon</string>
+    <string name="course_page_button">Course Page Button</string>
+    <string name="order_page_button">Order Page Button</string>
+
+    <string name="category_rectangle_icon">Category</string>
+    <string name="contacts_text">Contacts</string>
+    <string name="about_text">About Us</string>
+    <string name="home_text">Home</string>
+    <string name="logo_of_app_1">Course</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="course_start_date">Start of course:</string>
+    <string name="course_level">Level:</string>
+    <string name="course_page_description">For the program, you will learn how to build graphical applications for a PC, develop websites based on Java Spring Boot, learn how to build full-fledged Android applications and learn the Java language itself!</string>
+
+</resources>
